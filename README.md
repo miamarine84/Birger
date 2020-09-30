@@ -1,0 +1,2 @@
+# Birger
+Burget SQL Homework
