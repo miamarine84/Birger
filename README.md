@@ -1,2 +1,2 @@
-# Birger
+# Burger
 Burget SQL Homework
