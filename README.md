@@ -59,4 +59,4 @@ The challenge in this project was on how to be able to use handlebars and ORM to
 
 #### Please see my other projects on my Github
 
-[My Github]('https://github.com/miamarine84')
+[My Github](https://github.com/miamarine84)
